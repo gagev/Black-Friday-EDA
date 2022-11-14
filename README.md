@@ -1,4 +1,4 @@
- ![Tweetme Logo](black-friday.jpg)
+ ![bf Logo](black-friday.jpg)
 
 # Black-Friday-EDA
 
